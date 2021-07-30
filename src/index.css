@@ -10,3 +10,20 @@ body {
 .App {
   text-align: center;
 }
+
+.vote-btn {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.votes-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.comment-list {
+  margin-top: 10px;
+}
